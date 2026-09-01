@@ -369,7 +369,7 @@ async def process_gender(message: Message, state: FSMContext):
 
         gender_value = "male"
 
-    elif gender == "👩 Женщина
+    elif gender == "👩 Женщина":
 
         gender_value = "female"
     
